@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ios-geolocation.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DDA151279BD4AE2FA3D834B71F9D89414B1B695B</string>
+				<key>dateExpires</key>
+				<string>22.12.2024.</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4S94LD8W3D.com.promdm.ios-geolocation</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4S94LD8W3D</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>4S94LD8W3D.com.promdm.ios-geolocation</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ios-geolocation.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>91771f15-9833-4be6-84a9-fdd8ac7428ea</string>
+				<key>dateExpires</key>
+				<string>26.12.2022.</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.promdm.ios-geolocation</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4S94LD8W3D</string>
+				<key>name</key>
+				<string>ProMDM d.o.o. (Enterprise)</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.3.0.12</string>
+		</dict>
+	</array>
+</dict>
+</plist>
