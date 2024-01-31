@@ -19,9 +19,9 @@
     GeoLocationUpdateUserManageable - can the user turn the location tracking on or off - yes (1) or no (0)
     
     GeoLocationActivityType - 
-      1 – The value that indicates the app is using location manager for an unspecified activity.
-      2 – The value that indicates positioning in an automobile following a road network.
-      3 – The value that indicates positioning during dedicated fitness sessions, such as walking workouts, running workouts, cycling workouts, and so on.
+      1 – The value that indicates the app is using location manager for an unspecified activity
+      2 – The value that indicates positioning in an automobile following a road network
+      3 – The value that indicates positioning during dedicated fitness sessions, such as walking workouts, running workouts, cycling workouts, and so on
       4 – The value that indicates positioning for activities that don’t or may not adhere to roads such as cycling, scooters, trains, boats and off-road vehicles
       5 – The value that indicates activities in the air
       Other values -  Fall back to value 1 
